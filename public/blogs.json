@@ -6,7 +6,7 @@
       "Author": "Amelia Rhodes",
       "Author_img": "https://i.ibb.co.com/BVggBTP/Amelia-Rhodes.jpg",
       "Posted_date": "2024-09-01",
-      "Reading_time": "8",
+      "Reading_time": 8,
       "Hashtags": ["science", "quantum", "fiction", "novel"],
       "Description": "A gripping tale that explores the world of quantum physics through the eyes of a young scientist grappling with the boundaries of reality."
     },
@@ -17,7 +17,7 @@
       "Author": "Leo Marshall",
       "Author_img": "https://i.ibb.co.com/102MfZW/Leo-Marshall.jpg",
       "Posted_date": "2024-08-22",
-      "Reading_time": "12",
+      "Reading_time": 12,
       "Hashtags": ["design", "technology", "innovation"],
       "Description": "An insightful look into how design is shaping the future, from tech interfaces to sustainable living solutions."
     },
@@ -28,7 +28,7 @@
       "Author": "Sofia Bennett",
       "Author_img": "https://i.ibb.co.com/nkG3gPM/Sofia-Bennett.jpg",
       "Posted_date": "2024-09-05",
-      "Reading_time": "6",
+      "Reading_time": 6,
       "Hashtags": ["programming", "developer", "coding"],
       "Description": "Follow the journey of a young coder as she learns the intricacies of programming and overcomes challenges in the tech world."
     },
@@ -39,7 +39,7 @@
       "Author": "Ethan Carter",
       "Author_img": "https://i.ibb.co.com/nCBPLPS/Ethan-Carter.jpg",
       "Posted_date": "2024-08-15",
-      "Reading_time": "10",
+      "Reading_time": 10,
       "Hashtags": ["photography", "digitalart", "pixels"],
       "Description": "A deep dive into the world of digital photography, exploring how pixels can tell stories and capture life’s most beautiful moments."   
     },
@@ -50,7 +50,7 @@
       "Author": "Grace Thompson",
       "Author_img": "https://i.ibb.co.com/6gSn7sW/Grace-Thompson.jpg",
       "Posted_date": "2024-09-03",
-      "Reading_time": "5",
+      "Reading_time": 5,
       "Hashtags": ["minimalism", "art", "lifestyle"],
       "Description": "An exploration of minimalism as both an art form and a lifestyle, focusing on how simplicity can lead to greater creativity and peace of mind."
     }
