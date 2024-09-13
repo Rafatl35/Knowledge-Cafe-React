@@ -1,6 +1,6 @@
 [
     {
-      "Id": "001",
+      "Id": 1,
       "Cover": "https://i.ibb.co.com/v3FJK37/The-Quantum-Path.jpg",
       "Title": "The Quantum Path",
       "Author": "Amelia Rhodes",
@@ -11,7 +11,7 @@
       "Description": "A gripping tale that explores the world of quantum physics through the eyes of a young scientist grappling with the boundaries of reality."
     },
     {
-      "Id": "002",
+      "Id": 2,
       "Cover": "https://i.ibb.co.com/Zx4HVwq/Designing-the-Future.jpg",
       "Title": "Designing the Future",
       "Author": "Leo Marshall",
@@ -22,7 +22,7 @@
       "Description": "An insightful look into how design is shaping the future, from tech interfaces to sustainable living solutions."
     },
     {
-      "Id": "003",
+      "Id": 3,
       "Cover": "https://i.ibb.co.com/mDbpXtZ/The-Journey-of-Code.jpg",
       "Title": "The Journey of Code",
       "Author": "Sofia Bennett",
@@ -33,7 +33,7 @@
       "Description": "Follow the journey of a young coder as she learns the intricacies of programming and overcomes challenges in the tech world."
     },
     {
-      "Id": "004",
+      "Id": 4,
       "Cover": "https://i.ibb.co.com/F41dHmb/Life-in-Pixels.jpg",
       "Title": "Life in Pixels",
       "Author": "Ethan Carter",
@@ -44,7 +44,7 @@
       "Description": "A deep dive into the world of digital photography, exploring how pixels can tell stories and capture life’s most beautiful moments."   
     },
     {
-      "Id": "005",
+      "Id": 5,
       "Cover": "https://i.ibb.co.com/yWpKdqg/The-Art-of-Minimalism.jpg",
       "Title": "The Art of Minimalism",
       "Author": "Grace Thompson",
